@@ -1,0 +1,4 @@
+17	42	6	Widget,blue
+1234	0	42	Whatsit
+123123	999999	98	Doohicky
+A01	100	my	as big as huge

@@ -1,0 +1,4 @@
+17	0	6	Widget,blue
+123123	999000	98	Doohicky
+A	100	my	bigbigde
+5	0	4 	Thingy
